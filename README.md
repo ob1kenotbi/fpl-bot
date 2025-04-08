@@ -13,12 +13,8 @@ This Python script helps Fantasy Premier League (FPL) managers analyze their cur
 
 ---
 
-## 🛠 Requirements
+## 🛠 Prerequisites
 
-- Python 3.x
-- `requests` library
-
-Install the required library:
-
-```bash
-pip install requests
+1. **Python**: Ensure you install Python (preferably Python 3.8 or later).
+2. **Libraries**: Install the following Python libraries:
+   - `requests`: Allows you to send HTTP requests
